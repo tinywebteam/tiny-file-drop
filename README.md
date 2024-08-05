@@ -2,6 +2,9 @@
 
 A tiny file server application for sharing files, built on nginx and svelte
 
+## Overview
+
+The tiny file drop is a small self hosted project.
 
 # Things that need ports 
 
